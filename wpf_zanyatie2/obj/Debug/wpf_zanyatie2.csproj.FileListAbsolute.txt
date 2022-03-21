@@ -1,0 +1,17 @@
+C:\Users\bazil\source\repos\wpf_zanyatie2\wpf_zanyatie2\bin\Debug\wpf_zanyatie2.exe.config
+C:\Users\bazil\source\repos\wpf_zanyatie2\wpf_zanyatie2\bin\Debug\wpf_zanyatie2.exe
+C:\Users\bazil\source\repos\wpf_zanyatie2\wpf_zanyatie2\bin\Debug\wpf_zanyatie2.pdb
+C:\Users\bazil\source\repos\wpf_zanyatie2\wpf_zanyatie2\obj\Debug\wpf_zanyatie2.csproj.AssemblyReference.cache
+C:\Users\bazil\source\repos\wpf_zanyatie2\wpf_zanyatie2\obj\Debug\MainWindow.g.cs
+C:\Users\bazil\source\repos\wpf_zanyatie2\wpf_zanyatie2\obj\Debug\App.g.cs
+C:\Users\bazil\source\repos\wpf_zanyatie2\wpf_zanyatie2\obj\Debug\wpf_zanyatie2_MarkupCompile.cache
+C:\Users\bazil\source\repos\wpf_zanyatie2\wpf_zanyatie2\obj\Debug\wpf_zanyatie2_MarkupCompile.lref
+C:\Users\bazil\source\repos\wpf_zanyatie2\wpf_zanyatie2\obj\Debug\MainWindow.baml
+C:\Users\bazil\source\repos\wpf_zanyatie2\wpf_zanyatie2\obj\Debug\wpf_zanyatie2.g.resources
+C:\Users\bazil\source\repos\wpf_zanyatie2\wpf_zanyatie2\obj\Debug\wpf_zanyatie2.Properties.Resources.resources
+C:\Users\bazil\source\repos\wpf_zanyatie2\wpf_zanyatie2\obj\Debug\wpf_zanyatie2.csproj.GenerateResource.cache
+C:\Users\bazil\source\repos\wpf_zanyatie2\wpf_zanyatie2\obj\Debug\wpf_zanyatie2.csproj.CoreCompileInputs.cache
+C:\Users\bazil\source\repos\wpf_zanyatie2\wpf_zanyatie2\obj\Debug\wpf_zanyatie2.exe
+C:\Users\bazil\source\repos\wpf_zanyatie2\wpf_zanyatie2\obj\Debug\wpf_zanyatie2.pdb
+C:\Users\bazil\source\repos\wpf_zanyatie2\wpf_zanyatie2\bin\Debug\ClassLibrary1.dll
+C:\Users\bazil\source\repos\wpf_zanyatie2\wpf_zanyatie2\bin\Debug\ClassLibrary1.pdb
